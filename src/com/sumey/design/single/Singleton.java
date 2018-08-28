@@ -1,4 +1,4 @@
-package com.sumey.design.Single;
+package com.sumey.design.single;
 
 public class Singleton {
     //1.将构造方法私有化，不允许外部直接创建对象

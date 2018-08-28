@@ -1,6 +1,4 @@
-package com.sumey.design.Single;
-
-import com.sumey.design.Single.SingleLazy;
+package com.sumey.design.single;
 
 public class Test {
     public static void main(String[] args) {

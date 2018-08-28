@@ -1,4 +1,4 @@
-package com.sumey.design.Single;
+package com.sumey.design.single;
 
 public class SingleLazy {
 

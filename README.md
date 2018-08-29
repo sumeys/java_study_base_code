@@ -8,4 +8,8 @@ java的基笔记，都是一些基础的短小代码，不涉及任何框架
     * [适配器模式](/src/com/sumey/design/adapt)
     * [工厂模式](/src/com/sumey/design/factory)
 
-
+* [常见排序算法](/src/com/sumey/sort)
+    * [冒泡排序](/src/com/sumey/sort/BubbleSort.java)
+    * [选择排序](/src/com/sumey/sort/SelectSort.java)
+    * [插入排序](/src/com/sumey/sort/InsertSort.java)
+    * [快速排序](/src/com/sumey/sort/QuickSort.java)

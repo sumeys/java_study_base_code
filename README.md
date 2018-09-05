@@ -15,3 +15,4 @@ java的基笔记，都是一些基础的短小代码，不涉及任何框架
     * [快速排序](/src/com/sumey/sort/QuickSort.java)
     * [希尔排序](/src/com/sumey/sort/ShellSort.java)
     * [堆排序](/src/com/sumey/sort/HeapSort.java)
+    * [归并排序](/src/com/sumey/sort/MergeSort.java)
